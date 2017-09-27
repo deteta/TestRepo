@@ -1,1 +1,7 @@
+Some shitty code here for File 2Some shitty code here for File 2
 Some shitty code here for File 2
+
+Adding a second shit to stash it
+
+Testing two line commit
+- FirstLine
