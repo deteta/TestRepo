@@ -5,7 +5,7 @@ Adding a second shit to stash it
 Testing two line commit
 - FirstLine
 - SecondLine
-
+- ThirdLine
 
 
 Adding another line of code
