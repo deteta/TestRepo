@@ -1,11 +1,13 @@
-Some shitty code here for File 2
+Some shitty code here for File 2. MMM, shits, Yes, this file smells very good. 
 
-Adding a second shit to stash it
+Adding a second shit to stash it. 
+This shit is dope.
 
 Testing two line commit
 - FirstLine
 - SecondLine
 - ThirdLine
+- FourthLine
 
 
 Adding another line of code
