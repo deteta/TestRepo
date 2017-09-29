@@ -9,3 +9,6 @@ Testing two line commit
 
 
 Adding another line of code
+
+
+Adding another line to merge with the branch
